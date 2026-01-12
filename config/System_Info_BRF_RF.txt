@@ -1,0 +1,24 @@
+=== SYSTEM INFO ===
+Date: Thu Apr 17 05:39:00 PM EDT 2025
+Hostname: login-ice-2.pace.gatech.edu
+
+--- CPU Info ---
+CPU(s):                               24
+On-line CPU(s) list:                  0-23
+Model name:                           Intel(R) Xeon(R) Gold 6226 CPU @ 2.70GHz
+Thread(s) per core:                   1
+Core(s) per socket:                   12
+Socket(s):                            2
+CPU(s) scaling MHz:                   73%
+CPU max MHz:                          3700.0000
+CPU min MHz:                          1200.0000
+NUMA node0 CPU(s):                    0-11
+NUMA node1 CPU(s):                    12-23
+
+--- Memory Info ---
+               total        used        free      shared  buff/cache   available
+Mem:           187Gi        66Gi        16Gi       1.8Gi       107Gi       120Gi
+Swap:          8.0Gi       8.0Gi       0.0Ki
+
+--- GPU Info ---
+NVIDIA H200 HGX (2 GPU)

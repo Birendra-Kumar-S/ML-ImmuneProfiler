@@ -1,0 +1,24 @@
+name: gpu_ml_env
+channels:
+  - rapidsai
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - cudatoolkit=11.2
+  # RAPIDS packages (adjust version numbers as needed; here we use 23.02 as an example)
+  - cuml=23.02
+  - cudf=23.02
+  - cupy=11.0
+  # Pin NumPy to a version below 1.24 (for example, 1.23.5)
+  - numpy=1.23.5
+  - numba=0.56.4
+  - xgboost
+  - scikit-learn
+  - imbalanced-learn
+  - matplotlib
+  - seaborn
+  - tqdm
+  - pandas
+  

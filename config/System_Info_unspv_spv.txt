@@ -1,0 +1,19 @@
+=== SYSTEM INFO ===
+Date: Thu Apr 17 18:45:37 EDT 2025
+Hostname: Aaryesh-AD
+
+--- CPU Info ---
+CPU(s):                               16
+On-line CPU(s) list:                  0-15
+Model name:                           AMD Ryzen 7 7735HS with Radeon Graphics
+Thread(s) per core:                   2
+Core(s) per socket:                   8
+Socket(s):                            1
+
+--- Memory Info ---
+               total        used        free      shared  buff/cache   available
+Mem:           30Gi       13Gi       13Gi      128Mi      4.0Gi   16Gi
+Swap:          8.0Gi      0B      8.0Gi
+
+--- GPU Info ---
+NVIDIA GeForce RTX 4070 Laptop GPU (1 GPU)
