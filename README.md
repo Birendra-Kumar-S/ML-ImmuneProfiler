@@ -1,15 +1,6 @@
 # ML-ImmuneProfiler: Machine Learning Driven Immune Cell-Type Classifier
 
-## CS7641: Machine Learning Project
-### Georgia Institute of Technology
-
 *An immune cell classification framework utilizing advanced supervised and unsupervised learning techniques*
-
-<div align="center">
-  <a href="https://github.gatech.edu/pages/CS7641-Group9/CS7641-ML-work-repo/" target="_blank">
-    <img src="https://img.shields.io/badge/Project_Website-Visit_ML--ImmuneProfiler-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="Project Website: ML-ImmuneProfiler" width="450">
-  </a>
-</div>
 
 <p align="center">
   <i>Transforming single-cell RNA sequencing data into precise immune cell classification</i>
