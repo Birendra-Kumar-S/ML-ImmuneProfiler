@@ -1,0 +1,2 @@
+model,validation_accuracy,validation_f1_weighted,validation_f1_macro,test_accuracy,test_f1_weighted,test_f1_macro
+Ridge Classifier,0.7844633258193168,0.7839847324326098,0.7257044027631959,0.7814288191434021,0.7817457007241698,0.721430398336193

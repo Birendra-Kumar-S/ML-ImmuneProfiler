@@ -1,0 +1,52 @@
+ACCURACY: 0.8466
+----------------------------------------
+Cross-Validation Performance:
+ACCURACY: 0.8477 ± 0.0038
+F1_WEIGHTED: 0.8421 ± 0.0040
+PRECISION_WEIGHTED: 0.8474 ± 0.0044
+RECALL_WEIGHTED: 0.8477 ± 0.0038
+Validation Set Performance:
+                 precision    recall  f1-score   support
+
+ B intermediate       0.65      0.62      0.64       523
+       B memory       0.78      0.45      0.57       329
+        B naive       0.83      0.94      0.88      1148
+      CD14 Mono       0.97      0.98      0.97      1450
+      CD16 Mono       0.98      0.98      0.98       953
+      CD4 Naive       0.67      0.77      0.72      1067
+        CD4 TCM       0.77      0.75      0.76      1387
+        CD4 TEM       0.68      0.41      0.51       200
+      CD8 Naive       0.80      0.86      0.83      1361
+        CD8 TCM       0.76      0.57      0.65       360
+        CD8 TEM       0.91      0.94      0.92      1296
+Dendritic cells       0.98      0.95      0.97       394
+             NK       0.98      0.98      0.98       913
+           Treg       0.86      0.31      0.46       153
+
+       accuracy                           0.85     11534
+      macro avg       0.83      0.75      0.77     11534
+   weighted avg       0.85      0.85      0.84     11534
+
+
+Final Test Set Performance:
+                 precision    recall  f1-score   support
+
+ B intermediate       0.65      0.66      0.66       522
+       B memory       0.74      0.41      0.53       329
+        B naive       0.84      0.93      0.88      1148
+      CD14 Mono       0.96      0.98      0.97      1451
+      CD16 Mono       0.96      0.97      0.96       953
+      CD4 Naive       0.68      0.76      0.72      1067
+        CD4 TCM       0.78      0.74      0.76      1388
+        CD4 TEM       0.74      0.42      0.54       200
+      CD8 Naive       0.78      0.87      0.82      1361
+        CD8 TCM       0.78      0.55      0.65       360
+        CD8 TEM       0.90      0.96      0.93      1295
+Dendritic cells       0.99      0.96      0.98       394
+             NK       0.98      0.98      0.98       913
+           Treg       0.84      0.35      0.49       153
+
+       accuracy                           0.85     11534
+      macro avg       0.83      0.75      0.78     11534
+   weighted avg       0.85      0.85      0.84     11534
+
