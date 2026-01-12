@@ -240,11 +240,6 @@ To validate our results:
 3. Compare outputs against our benchmark results
 
 
-## Project Proposal Video
-
-A video presentation of the original proposal for the idea is available [on YouTube](https://www.youtube.com/embed/itqGzloRRMI).
-
-
 ---
 
 ## References
