@@ -286,27 +286,5 @@ A video presentation of the original proposal for the idea is available [on YouT
 
 [14] M. Schubach, M. Re, P. N. Robinson, et al., “Imbalance-Aware Machine Learning for Predicting Rare and Common Disease-Associated Non-Coding Variants,” Scientific Reports, vol. 7, no. 1, p. 2959, 2017. [Online]. Available: https://doi.org/10.1038/s41598-017-03011-5
 
-## Contact
-For questions, comments, or collaboration ideas, please open an issue or reach out to the team through the [Team Page](https://github.gatech.edu/pages/CS7641-Group9/CS7641-ML-work-repo/team.html).
-
-<br>
-<div align="center">
-  <p>This code and repository is maintained by:</p>
-  <div style="margin: 20px 0; padding: 15px; border-radius: 6px; display: inline-block;">
-    <img src="https://github.com/Aaryesh-AD.png" width="100" height="100" style="border-radius: 50%; border: 3px solidrgb(28, 85, 149);" alt="Aaryesh Deshpande">
-    <h3>Aaryesh Deshpande</h3>
-    <p>Lead Developer & Maintainer</p>
-    <p>
-      <a href="https://www.linkedin.com/in/aaryesh-ad/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
-      </a>
-      <a href="https://github.com/Aaryesh-AD" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="25">
-      </a>
-    </p>
-  </div>
-  <p style="font-style: italic; margin-top: 10px;">For questions about implementation details or repository structure, please contact the maintainer directly. </p>
-</div>
-
 ---
 
