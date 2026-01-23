@@ -41,8 +41,6 @@
   - [Analysis & Execution](#analysis--execution)
   - [Results & Visualizations](#results--visualizations)
   - [Reproducibility & Validation](#reproducibility--validation)
-  - [Project Proposal Video](#project-proposal-video)
-  - [Contact](#contact)
   - [References](#references)
 
 ## Project Overview
@@ -61,8 +59,6 @@
 
 
 ## Project Structure
-<details close>
-<summary><strong>Expand to View Complete Project Structure</strong></summary>
 
 
 ### 📂 Config
