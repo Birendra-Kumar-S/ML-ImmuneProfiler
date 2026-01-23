@@ -83,6 +83,7 @@
 - 📄 svm_cuML_model.pkl - SVM model using cuML (GPU-accelerated)
 
 ### 📂 Notebooks
+- 📄 scRNA-seq_data_preprocessing.ipynb - Notebook for scRNA-seq data pre-processing using seurat
 - 📄 ml_eda_unspv_nb01.ipynb - Notebook for EDA on unsupervised data
 - 📄 ml_spv_data_process_nb02.ipynb - Notebook for supervised data processing
 - 📄 ml_spv_LC_LR_nb03.ipynb - Notebook for Linear Classifier and Logistic Regression
@@ -99,7 +100,7 @@
 - 📂 SVM - Support Vector Machine plots
 
 ### 📂 Reports
-- Contains project reports (notebook outputs and HTML files)
+- Contains method info markdown
 
 ### 📂 Results
 - Contains project results (evaluation metrics, predictions, etc.)
