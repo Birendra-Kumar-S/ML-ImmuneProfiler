@@ -156,10 +156,11 @@ Our approach follows a rigorous research pipeline:
    - Clustering quality metrics: silhouette scores, adjusted Rand index
    - Model Evaluation: Cross-validation and performance metrics analysis
 4. **Visualization**: Comprehensive visualizations for model performance and data exploration
-5. **Documentation**: Detailed reports and documentation for reproducibility
+5. **Documentation**: Detailed method info and documentation for reproducibility
 
 ## Technologies Used
 
+- Seurat and associated libraries and packages for preprocessing raw scRNA-seq dataseta
 - Python for machine learning implementation (scikit-learn, pandas, NumPy, matplotlib, seaborn)
 - Jupyter notebooks for interactive development
 - GPU acceleration for some models (cuML for SVM)
