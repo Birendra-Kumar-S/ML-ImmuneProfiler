@@ -204,6 +204,7 @@ To ensure reproducibility across platforms, we provide comprehensive environment
 
 Navigate to the appropriate notebook based on your analytical needs:
 
+- **scRNA-seq data pre-processing**: `Notebooks/scRNA-seq_data_preprocessing.ipynb`
 - **Exploratory Analysis**: `Notebooks/ml_eda_unspv_nb01.ipynb`
 - **Supervised Learning**:
   - `Notebooks/ml_spv_data_process_nb02.ipynb` - Data processing for supervised learning
@@ -217,16 +218,8 @@ Pre-trained models are available in the Models directory and can be loaded using
 
 Our comprehensive visualization suite can be accessed in multiple formats:
 
-> [!TIP]
-> **Interactive Project Website**: Explore our complete analysis at [ML-ImmuneProfiler Project Website](https://github.gatech.edu/pages/CS7641-Group9/CS7641-ML-work-repo/)
 - **Static Visualizations**: Review performance metrics and comparative analysis in the `Plots/` directory, organized by model type (BRF, RF, SVM, LR, LRC, EDA, DIMRED_CLUST)
-- **Detailed HTML and PDF Notebook Execution**: Access the run notebooks in the form of HTML and PDF reports in the `Reports/` directory
-  - [`Reports/Method_Info/ml_eda_unspv_nb01.pdf`](reports/ml_eda_unspv_nb01.pdf) - Exploratory Data Analysis results
-  - [`Reports/Method_Info/ml_spv_data_process_nb02.pdf`](reports/ml_spv_data_process_nb02.pdf) - Data Processing Pipeline
-  - [`Reports/Method_Info/ml_spv_LC_LR_nb03.pdf`](reports/ml_spv_LC_LR_nb03.pdf) - Linear Classifier & Logistic Regression
-  - [`Reports/Method_Info/ml_spv_svm_nb04.pdf`](reports/ml_spv_svm_nb04.pdf) - Support Vector Machine
-  - [`Reports/Method_Info/ml_spv_rf_brf_nb05.pdf`](reports/ml_spv_rf_brf_nb05.pdf) - Random Forest & Boosted Random Forest
-- **PDF Documentation**: Printer-friendly versions of all methodology documentation are available in the `Reports/Method_Info` directory
+- **MD Documentation**: Printer-friendly versions of all methodology documentation are available in the `Reports/Method_Info` directory
 
 ## Reproducibility & Validation
 
