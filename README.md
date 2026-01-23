@@ -172,8 +172,8 @@ To ensure reproducibility across platforms, we provide comprehensive environment
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.gatech.edu/CS7641-Group9/CS7641-ML-work-repo.git
-   cd CS7641-ML-work-repo
+   git clone https://github.com/Birendra-Kumar-S/ML-ImmuneProfiler.git
+   cd ML-ImmuneProfiler
    ```
 
 2. **Environment Configuration**
