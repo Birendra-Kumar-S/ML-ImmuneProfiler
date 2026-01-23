@@ -69,6 +69,8 @@
 - 📄 System_Info_unspv_spv.txt - System information for supervised/unsupervised models
 
 ### 📂 Data
+- 📄 scRNA-seq_raw_data_curation.csv - Tabulated list of raw single-cell RNA-seq datasets curated from 10X Genomics database
+- 📄 batch_corrected_expression_with_celltypes.tsv.gz - Tab seperated matrix post-processing the raw scRNA-seq datasets - utilized for EDA and ML modelling
 - 📄 spv_split_dataset_100hvg.pkl - Split supervised dataset with 100 highly variable genes
 - 📄 supervised_data_100hvg_metadata.pkl - Metadata for supervised dataset
 - 📄 supervised_data_100hvg.pkl - Supervised dataset with 100 highly variable genes
