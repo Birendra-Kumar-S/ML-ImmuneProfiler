@@ -120,7 +120,7 @@
 <br>
 
 The project follows a structured workflow to ensure clarity and reproducibility:
-1. **Data Preparation**: Preprocessing and cleaning of datasets
+1. **Data Preparation**: Preprocessing and cleaning of scRNA-seq datasets (scRNA-seq_data_preprocessing.ipynb)
 2. **Exploratory Data Analysis (EDA)**: Initial analysis to understand data distributions and relationships
 3. **Data exploration and unsupervised analysis** (ml_eda_unspv_nb01)
 4. **Supervised data processing** (ml_spv_data_process_nb02)
