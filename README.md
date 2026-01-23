@@ -75,9 +75,6 @@
 - 📄 supervised_data_100hvg_metadata.pkl - Metadata for supervised dataset
 - 📄 supervised_data_100hvg.pkl - Supervised dataset with 100 highly variable genes
 
-### 📂 Docs
-- Website documentation files (HTML and assets)
-
 ### 📂 Models
 - 📂 Linear_ridge_classifiers - Directory containing linear ridge classifier models
 - 📂 logistic_regression - Directory containing logistic regression models
